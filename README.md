@@ -1,16 +1,23 @@
-# todo
+# flutter TaskMmanager module8 assignment Ostad
 
-A new Flutter project.
+## Flutter Version
+- Flutter version 3.10.3 on channel stable
+- Dart version 3.0.3
+- DevTools version 2.23.1
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# User Interface
 
-A few resources to get you started if this is your first Flutter project:
+- ## Add a Task using AlertDialog
+<img src="https://github.com/pd28CSE/flutter_task_manager_module8_assignment_ostad/assets/71305747/a6604d0c-1a0d-4a63-b2a4-1315f70de087" width="50%" height="50%"><hr>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- ## Empty Task Submit Error Messages
+<img src="https://github.com/pd28CSE/flutter_task_manager_module8_assignment_ostad/assets/71305747/e908aed1-ac78-4773-8499-1b5fcbb1c0bb" width="50%" height="50%"><hr>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ## Task List Screen
+<img src="https://github.com/pd28CSE/flutter_task_manager_module8_assignment_ostad/assets/71305747/52594534-f13a-4353-8435-d9b47d78295f" width="50%" height="50%"><hr>
+
+- ## Display Task Details Using buttonSheet and Delete the Task
+<img src="https://github.com/pd28CSE/flutter_task_manager_module8_assignment_ostad/assets/71305747/4ce6245c-3a19-45ba-9ff8-5810fb929cdb" width="50%" height="50%"><hr>
+
+
