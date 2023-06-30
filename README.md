@@ -1,9 +1,22 @@
-# flutter TaskMmanager module8 assignment Ostad
+# flutter **Task Management** module-8 assignment
 
 ## Flutter Version
 - Flutter version 3.10.3 on channel stable
 - Dart version 3.0.3
 - DevTools version 2.23.1
+
+
+## Create a Flutter project on Task Management.
+
+1. Implement a main screen that displays a list of tasks.
+2. Add a floating action button (FAB) that opens a dialog to add a new task.
+3. When the user clicks the FAB, display a dialog with text fields to input task details such as title, description, and deadline.
+4. Implement a "Save" button in the dialog to add the new task to the task list.
+5. Display the added tasks in the main screen's list.
+6. Implement a long press gesture on each task item in the list to open a bottom sheet.
+7. The bottom sheet should show the task details along with an option to  delete the task.
+8. The bottom sheet will always be closed when delete is pressed.
+9. Ensure that the parent screen updates automatically with the modified task details.
 
 
 # User Interface
